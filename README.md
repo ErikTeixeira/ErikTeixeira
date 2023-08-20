@@ -18,6 +18,19 @@
   <img width="50%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ErikTeixeira&show_icons=true&count_private=true&hide_border=false&title_color=76c7fc&icon_color=76c7fc&text_color=c9d1d9&bg_color=0d1117" alt="Erik Teixeira github stats" /> 
 </div>
 
+## Things that I know more
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,git,java,py" />
+  </a>
+</p>
+
+## Learning
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+</p>
 
 
 - Thanks for visiting.
