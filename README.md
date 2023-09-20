@@ -21,7 +21,7 @@
 ## Learning
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,git,java,py,js" />
+    <img src="https://skillicons.dev/icons?i=html,css,git,java,py,js,react" />
   </a>
 </p>
 
