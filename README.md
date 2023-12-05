@@ -6,7 +6,7 @@
 
 :books: I like to study.
 
-:outbox_tray: 2023 Goals: create a new project and find a new job.
+:outbox_tray: Goals: create a new project and find a new job.
 
 <div align="center">
   <img width="50%"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ErikTeixeira&layout=compact&hide_border=false&title_color=76c7fc&text_color=c9d1d9&bg_color=0d1117" style="max-width: "100%"; />
