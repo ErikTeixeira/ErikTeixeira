@@ -25,6 +25,9 @@
   </a>
 </p>
 
+<h3>🔥 Streak Stats</h3>
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ErikTeixeira's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=ErikTeixeira&theme=monokai-metallian&hide_border=true"/>
+
 - Thanks for visiting.
 
 - Enjoy it!! o/
