@@ -25,8 +25,10 @@
   </a>
 </p>
 
-<h3>🔥 Streak Stats</h3>
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ErikTeixeira's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=ErikTeixeira&theme=monokai-metallian&hide_border=true"/>
+<div align="center">
+  <h2>🔥 Streak Stats</h2>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ErikTeixeira's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=ErikTeixeira&theme=monokai-metallian&hide_border=true"/>
+</div>
 
 - Thanks for visiting.
 
