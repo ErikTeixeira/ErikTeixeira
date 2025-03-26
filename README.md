@@ -21,7 +21,7 @@
 ## Learning
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,java,spring,angular,mongodb,postgresql,azure,docker" />
+    <img src="https://skillicons.dev/icons?i=git,linux,java,spring,mongodb,postgresql,docker" />
   </a>
 </p>
 
