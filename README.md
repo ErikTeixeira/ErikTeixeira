@@ -4,9 +4,6 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I like to study.
-
-:outbox_tray: Goals: create a new project and find a new job.
 
 
 <div align="center">
