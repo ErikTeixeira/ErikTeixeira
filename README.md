@@ -9,8 +9,9 @@
   <td><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ErikTeixeira&theme=dracula&layout=pie&hide_border=false&langs_count=10" /></td>
 </tr></table>
 
-</div>
+![Codewars Activity](https://codewars-activity.vercel.app/ErikTeixeira/en/activity.svg?streak=true)
 
+</div>
 
 ## Learning
 <p align="center">
